@@ -1,5 +1,5 @@
 # React-Browserify-Gulp
-
-To run:
+**Starter Template for React + Browserify**
+###To run:
 - run npm install after downloading
 - run "gulp"
